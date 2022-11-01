@@ -1,6 +1,9 @@
-# Игра "Инопланетное вторжение"
+# **Игра "Инопланетное вторжение"**
+**This game for my sons Ilya and David**
+
+**created by** [©eazakiev](https://github.com/eazakiev)
 ***
-![image](alien_ships.png)
+![image](images/alien_ships.png)
 ## Описание
 Каждый игрок управляет кораблем, который находится в середине нижнего края экрана. 
 Игрок перемещает корабль вправо и влево клавишами управления курсором. Клавиша "пробел" 
@@ -20,8 +23,8 @@ pip install -r requirements.txt
 ***
 
 ## Запуск
-Находясь в папке проекта, запустите файл main.py
+Находясь в папке проекта, запустите файл alien_invasion.py
 
 ```commandline
-python main.py
+python alien_invasion.py
 ```
